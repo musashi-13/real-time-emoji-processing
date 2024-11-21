@@ -1,5 +1,7 @@
 # Concurrent Emoji Broadcast Over Event Driven Architecture
 
+A scalable real-time system that captures and processes billions of user-generated emojis during live sporting events, built with Kafka for data streaming and Spark for real-time processing to ensure high concurrency and low latency.
+
 ## Team Members
 * PES1UG22CS189 - Dinesh Kumar L C
 * PES1UG22CS253 - Jayanth Ramesh
