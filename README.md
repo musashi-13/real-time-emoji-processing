@@ -1,4 +1,4 @@
-# RR-Team-5-emostream-concurrent-emoji-broadcast-over-event-driven-architecture
+# Concurrent Emoji Broadcast Over Event Driven Architecture
 
 ## Team Members
 * PES1UG22CS189 - Dinesh Kumar L C
